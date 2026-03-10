@@ -1,0 +1,48 @@
+header {
+    background-color: rgb(36, 36, 36);
+    color: white;
+    text-align: center;
+    font-size: large;
+    padding: 1px;
+    border: 1px solid rgb(36, 36, 36);
+
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    box-shadow: 0 0 20px rgb(27, 27, 27);
+    display: block;
+    margin: auto;
+}
+
+section {
+    max-width: 400px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgba(0, 0, 0, .1);
+    padding: 5px;
+    background-color: rgb(217, 218, 219);
+
+}
+
+h2 {
+    margin: 5px;
+    border-bottom: 1px dotted;
+}
+
+section p {
+    margin: 15px;
+}
+
+footer {
+    background-color: rgb(36, 36, 36);
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
