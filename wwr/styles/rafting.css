@@ -132,10 +132,6 @@ footer {
 
 }
 
-footer nav {
-    justify-self: ;
-}
-
 .history {
     display: grid;
     grid-template-columns: 1fr 250px 1fr;
